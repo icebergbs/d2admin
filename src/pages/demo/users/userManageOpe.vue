@@ -41,7 +41,7 @@
               <el-button size="mini" type="text" @click="visible2 = false">取消</el-button>
               <el-button type="primary" size="mini" @click="visible2 = false">确定</el-button>
             </div>
-            <el-button slot="reference"  class="btn"   type="primary" size="small">扣减</el-button>
+            <el-button slot="reference"  class="btn"   type="primary" size="small">扣减分值</el-button>
           </el-popover>
           <!-- 增加操作 -->
           <el-popover
