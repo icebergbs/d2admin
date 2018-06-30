@@ -2,7 +2,7 @@
     <div>
          <el-form   ref="userForm" :model="userForm" :rules="rules" label-width="85px" size="medium" style='width: 300px; margin-left:50px;'>
             <el-form-item label="用户名:" prop="name">
-                <el-input v-model="userForm.name" placeholder="请输入 用户名"></el-input>
+                <el-input v-model="userForm.name" placeholder="输入用户名"></el-input>
             </el-form-item>
             <el-form-item label="头像:">
                <el-upload
