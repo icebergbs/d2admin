@@ -1,0 +1,22 @@
+/* 页面头部 标题 */
+.lab{
+width: 193px;
+height: 55px;
+line-height: 55px;
+color: rgba(16, 16, 16, 1);
+font-size: 38px;
+text-align: center;
+font-family: Roboto;
+}
+/* 分页 */
+.pagination-container{
+  float: right;
+}
+.el-card__header{
+  padding: 0px 20px 3px 20px;
+}
+/* 页面表格 */
+.tables {
+  margin-top: 0px;
+  margin-bottom: 18px;
+}
