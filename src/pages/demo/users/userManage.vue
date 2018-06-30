@@ -95,7 +95,7 @@
                 <el-table-column label="用户信息" width="">
                     
                 </el-table-column>
-                <el-table-column label="账号绑定信息" width="">
+                <el-table-column label="账号绑定" width="">
                     
                 </el-table-column>
                 <el-table-column label="账号身份" width="">
